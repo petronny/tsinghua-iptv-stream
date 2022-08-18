@@ -1,0 +1,4 @@
+url = "https://iptv.tsinghua.edu.cn"
+bind_url = "http://192.168.1.100:5000"
+username = "2022999999"
+password = "password"
